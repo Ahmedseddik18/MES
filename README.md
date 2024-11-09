@@ -179,16 +179,5 @@ Contribution are always welcome and recommended! Here is how:
 
 ## Creators 😇
 
-- [ThemeSelection](https://themeselection.com)
 
 ## Changelog 📆
-
-Please refer to the [CHANGELOG](https://themeselection.com/demo/sneat-bootstrap-html-admin-template-free/changelog.html) file. We will add a detailed release notes to each new release.
-
-## Social Media 🌍
-
-- Twitter : [https://twitter.com/Theme_Selection](https://twitter.com/Theme_Selection)
-- Facebook : [https://www.facebook.com/ThemeSelections/](https://www.facebook.com/ThemeSelections/)
-- Pinterest : [https://pinterest.com/themeselect/](https://pinterest.com/themeselect/)
-- Instagram : [https://www.instagram.com/themeselection/](https://www.instagram.com/themeselection/)
-"# MES" 
